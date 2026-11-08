@@ -1,0 +1,3 @@
+Name: Prue	 Wins: 0	 Earnings: 50
+Name: Aidan	 Wins: 1	 Earnings: 200
+Name: Hadyen	 Wins: 1	 Earnings: 60
